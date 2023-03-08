@@ -1,4 +1,6 @@
-### Hi there 👋
+**Front End Developer** and **Webdesigner** by day 🌞 **running Norway's biggest podcast for children** at night 🌛
+
+### Hi there, I'm Lisa 💃
 
 <!--
 **lisauhlen/lisauhlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
